@@ -1,0 +1,17 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: #000000
+}
+
+
+.type2{
+	width: 30%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 200px;
+	height: 200px;
+	filter: brightness(0) invert(1);
+}
